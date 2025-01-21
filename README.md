@@ -10,3 +10,5 @@ vio_intox.exe [municipio]
 
 Exemplo: vio_intox 520620
 ~~~
+
+Advertimos que o arquivo resultante do processamento poderá conter vários 
